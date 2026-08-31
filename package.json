@@ -1,0 +1,8 @@
+{
+  "name": "com.sonoface.heavenhsm",
+  "version": "1.0.0",
+  "displayName": "Heaven HSM",
+  "description": "HeavenHSM is a stable Hierarchical State Machine for Unity.",
+  "unity": "6000.0"
+}
+

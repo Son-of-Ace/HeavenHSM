@@ -1,3 +1,14 @@
 {
-	"name": "HeavenHSMRuntime"
+    "name": "HeavenHSM",
+    "rootNamespace": "HeavenHSM",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
 }
